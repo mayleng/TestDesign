@@ -1,0 +1,7 @@
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\bin\urlTestWeb.dll.config
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\bin\urlTestWeb.dll
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\bin\urlTestWeb.pdb
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\obj\Debug\urlTestWeb.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\obj\Debug\urlTestWeb.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\obj\Debug\urlTestWeb.dll
+C:\Users\bonree\Desktop\webapi\netframework\urlTestWeb\urlTestWeb\obj\Debug\urlTestWeb.pdb
